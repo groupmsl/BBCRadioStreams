@@ -30,5 +30,9 @@ Radio Asian Network
 https://sounds.files.bbci.co.uk/3.8.0/networks/bbc_asian_network/colour_450.png
 BBC World Service
 https://sounds.files.bbci.co.uk/3.8.0/networks/bbc_world_service/colour_450.png
+BBC London
+https://sounds.files.bbci.co.uk/3.8.0/networks/bbc_london/colour_450.png
+BBC Radio Cumbria
+https://sounds.files.bbci.co.uk/3.8.0/networks/bbc_radio_cumbria/colour_450.png
 
 Note that the version folder changes when new stations are added (i.e. 3.5.0 does not contain Radio 1 Anthems or Radio 3 Unwind but 3.8.0 does)
