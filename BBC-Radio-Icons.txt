@@ -30,7 +30,7 @@ Radio Asian Network
 https://sounds.files.bbci.co.uk/3.8.0/networks/bbc_asian_network/colour_450.png
 BBC World Service
 https://sounds.files.bbci.co.uk/3.8.0/networks/bbc_world_service/colour_450.png
-BBC London
+BBC Radio London
 https://sounds.files.bbci.co.uk/3.8.0/networks/bbc_london/colour_450.png
 BBC Radio Cumbria
 https://sounds.files.bbci.co.uk/3.8.0/networks/bbc_radio_cumbria/colour_450.png
