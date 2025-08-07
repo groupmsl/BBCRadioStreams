@@ -1,4 +1,6 @@
 A list of URLs to the official logos for each station
+Note that the version folder changes when new stations are added 
+(i.e. 3.5.0 does not contain Radio 1 Anthems or Radio 3 Unwind but 3.8.0 does)
 
 Radio 1
 https://sounds.files.bbci.co.uk/3.8.0/networks/bbc_radio_one/colour_450.png
@@ -9,7 +11,7 @@ https://sounds.files.bbci.co.uk/3.8.0/networks/bbc_radio_one_dance/colour_450.pn
 Radio 1 Anthems
 https://sounds.files.bbci.co.uk/3.8.0/networks/bbc_radio_one_anthems/colour_450.png
 Radio 2
-https://sounds.files.bbci.co.uk/3.8.0/networks/bbc_radio_three/colour_450.png
+https://sounds.files.bbci.co.uk/3.8.0/networks/bbc_radio_two/colour_450.png
 Radio 3
 https://sounds.files.bbci.co.uk/3.8.0/networks/bbc_radio_three/colour_450.png
 Radio 3 Unwind
